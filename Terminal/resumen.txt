@@ -1,0 +1,10 @@
+-- Para crear una carpeta o varias
+    mkdir "nombre de la carpeta" "nombre de otra carpeta"
+-- Para crear archivos o un archivos
+    touch "nombre del archivo".extension "nombrede otro archivo".extension
+--Para mover un archivo
+    mv "nombre del archivo".extension "directoria donde lo quieres mover"
+--Para elimiar un directorio de contiene archivos
+    rm -r "nombre del directorio"
+-- Para iniciar un repositorio de manera local
+    git init

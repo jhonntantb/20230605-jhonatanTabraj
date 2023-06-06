@@ -1,0 +1,4 @@
+--- Listado de partes de una computadora
+.Procesador
+.Ram
+.Memoria secundaria
