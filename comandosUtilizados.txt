@@ -1,0 +1,26 @@
+  234  git init
+  235  git branch -M main
+  236  git remote add origin https://github.com/jhonntantb/20230605-jhonatanTabraj.git
+  237  touch comandos.txt main.js index.html
+  238  git status
+  239  git add .
+  240  git commit -m "commit 01 jhonatanTabraj"
+  241  git push -u origin main
+  242  git checkout feature01
+  243  git checkout -b feature01
+  244  mkdir Terminal Hardware
+  245  touch Terminal/resumen.txt Hardware/resumen.txt
+  246  ls -a
+  247  ls -R
+  248  git add .
+  249  git commit -m "commit 02 de jhonatanTabraj"
+  250  git push origin feature01
+  251  git checkout -b feature02
+  252  code .
+  253  git status
+  254  git add .
+  255  git commit -m "commit 03 de jhonatanTabraj"
+  256  git push origin feature02
+  257  mv comandos.txt comandosUtilizados.txt
+  258  git checkout main
+  259  history
